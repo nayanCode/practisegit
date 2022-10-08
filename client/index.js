@@ -1,6 +1,7 @@
 var a=10;
 var b=9;
-var res=a+b;
-console.log(a,b);
+var c=10;
+var res=a+b+c;
+console.log(a,b,c);
 console.log(res);
 
